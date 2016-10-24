@@ -1,0 +1,3 @@
+[submodule "MaterialDesignApp/MaterialDesignLibrary"]
+	path = MaterialDesignApp/MaterialDesignLibrary
+	url = https://github.com/navasmdc/MaterialDesignLibrary.git
